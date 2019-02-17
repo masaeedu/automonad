@@ -1,0 +1,10 @@
+{
+  "name": "automonad",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@masaeedu/do": "^0.2.0",
+    "@masaeedu/fp": "https://github.com/masaeedu/fp.git#dev"
+  }
+}
